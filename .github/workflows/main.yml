@@ -37,3 +37,7 @@ jobs:
       - name: Build image
         run: |
           make build
+          
+      - name: Push image
+        run: |
+          make push          
