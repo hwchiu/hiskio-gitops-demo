@@ -11,6 +11,7 @@ Latest Commit Hash is ${PREFIX}_${COMMITHASH}
 Latest Commit Log is ${PREFIX}_${COMMITLOG}
 IP address list are ${PREFIX}_${IPS}
 Datetime is $(date)
+test
 EOF
 
 #Generate a new index.html under /var/www/html
